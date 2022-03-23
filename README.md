@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jéssica Lima.
 
-- 🔭 No momentos estou trabalhando com criação de artes para redes sociais comerciais.
+- 🔭  Faço trabalho de criação de artes para redes sociais comerciais.
 - 📚 Estou estudando JavaScript, HTML5, CSS3 e UX design.
 - 🤔 Eu gostaria de ajuda em algumas ferramentas e termos que facilitem meu aprendizado.
 
@@ -24,5 +24,3 @@
   <a href = "mailto:jeehlim2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/jéssica-lima-724269180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 " target="_blank"></a>
-  
-</div>
